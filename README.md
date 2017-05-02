@@ -1,2 +1,2 @@
-# The-Guardian
-Jogo plataforma 2d para trabalho acadêmico!
+﻿# The-Guardian
+Jogo plataforma 2d para trabalho acadêmico galera!
