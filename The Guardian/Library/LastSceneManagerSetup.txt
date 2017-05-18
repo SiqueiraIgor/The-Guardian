@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Fases/Level 1/level_one.unity
+- path: Assets/Fases/gameover/gameover.unity
   isLoaded: 1
   isActive: 1
